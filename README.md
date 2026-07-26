@@ -1,4 +1,4 @@
-##CampusConnect AI
+#CampusConnect AI
 
 ## Smart Student Registration & Fee Management System
 
