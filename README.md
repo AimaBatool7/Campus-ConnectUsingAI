@@ -103,11 +103,13 @@ The AI is instructed to answer only school-related questions and politely refuse
 
 ### Home Page
 
-<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/2e08d69b-a17f-411c-ab64-6baf10b14ca4" />
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/ded18367-c3f0-4fe4-84fa-c4fc6bdb4e1b" />
+
 
 ### Student Registration
 
-<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/b1f726a1-36ab-4380-b658-b4fa0ebb179a" />
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/4c83363d-c1c2-42cd-a320-fc86c379c62e" />
+
 
 
 
