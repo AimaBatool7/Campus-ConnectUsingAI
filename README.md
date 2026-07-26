@@ -1,20 +1,157 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+CampusConnect AI
 
-# Run and deploy your AI Studio app
+## Smart Student Registration & Fee Management System
 
-This contains everything you need to run your app locally.
+CampusConnect AI is an AI-powered web application that digitizes the student admission and school management process. It provides students and administrators with a single platform for registration, fee management, schedules, notices, and AI-powered admission assistance.
 
-View your app in AI Studio: https://ai.studio/apps/ddea294c-f73b-45d6-9e7f-772475b12d3d
+---
 
-## Run Locally
+## Problem Statement
 
-**Prerequisites:**  Node.js
+Many schools still manage admissions and student records manually using paper registers. This process is slow, time-consuming, and can lead to errors.
+
+CampusConnect AI solves this problem by providing an online system where students can register digitally, check fees, view schedules, receive announcements, and get AI assistance for admission-related questions.
+
+---
+
+## Live Demo
+
+https://campus-connect-using-ai.vercel.app
+
+---
+
+## GitHub Repository
+
+https://github.com/AimaBatool7/Campus-ConnectUsingAI
+
+---
+
+## Features
+
+- 🏠 Home Page
+- 📝 Student Registration
+- 💳 Fee Management
+- 📅 Class Schedule
+- 📢 School Notices
+- 🤖 AI Assistant
+- 🪪 Digital Student ID
+- 👨‍🎓 Student Dashboard
+- 👩‍💼 Admin Dashboard
+
+---
+
+## Registration Module
+
+Students can register by providing:
+
+- Student Name
+- Student CNIC/B-Form
+- Father's Name
+- Father's CNIC
+- Mobile Number
+- Address
+- Class Selection
+- Group Selection (Classes 9 & 10)
+
+Student records are stored digitally.
+
+---
+
+## Fee Management
+
+Students can:
+
+- View Admission Fee
+- View Monthly Fee
+- View Total Fee
+- Submit Challan Number
+- Check Payment Status (Pending, Approved, Rejected)
+
+---
+
+## AI Feature
+
+CampusConnect AI includes an AI Assistant powered by **Google Gemini**.
+
+The assistant helps users with:
+
+- Admission process
+- Required documents
+- Fee structure
+- School timings
+- Class information
+- Registration guidance
+
+The AI is instructed to answer only school-related questions and politely refuse unrelated queries.
+
+---
+
+## Technologies Used
+
+- Google AI Studio
+- Google Gemini AI
+- React
+- TypeScript
+- Vite
+- Firebase
+- GitHub
+- Vercel
+
+---
+
+## Screenshots
+
+### Home Page
+
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/2e08d69b-a17f-411c-ab64-6baf10b14ca4" />
+
+### Student Registration
+
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/b1f726a1-36ab-4380-b658-b4fa0ebb179a" />
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+### AI Assistant
+
+<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/2961f078-fc91-4fd9-bc94-63e848a60733" />
+
+
+---
+
+## How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/AimaBatool7/Campus-ConnectUsingAI.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the application:
+
+```bash
+npm run dev
+```
+
+---
+
+## Future Improvements
+
+- Parent Portal
+- Attendance Management
+- Online Result System
+- Library Management
+- SMS and Email Notifications
+
+---
+
+## Developer
+
+**Aima Batool**
+
+Final Project – CampusConnect AI
